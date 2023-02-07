@@ -4,4 +4,6 @@
 
 <a href="https://github.com/ashley-matesic/KNES381AshleyMatesic/blob/main/Images/Tomato_soup.jpeg">Hyperlink Tomato Soup Photo in Another Folder</a>
 
+<a href="/Images/Tomato_soup.jpeg"> </a> 
+
 <p>V&#775;O<sub>2</sub> max</p>
